@@ -1,0 +1,54 @@
+.main {
+  border: 3px solid rgb(167, 164, 164);
+  width: 35%;
+  border-radius: 7px;
+  margin-top: 15%;
+  float: right;
+  display: flex;
+  height: 320px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.email {
+  width: 400px;
+  color: rgba(22, 20, 20, 0.144);
+  border-radius: 8px;
+  height: 55px;
+
+  border-color: rgba(116, 109, 109, 0.274);
+  margin-bottom: 15px;
+}
+.pass {
+  width: 400px;
+  border-color: rgba(116, 109, 109, 0.274);
+  border-radius: 8px;
+
+  height: 55px;
+}
+.log {
+  width: 370px;
+  color: white;
+  font-weight: bolder;
+  margin-top: 15px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  background-color: #365cd8;
+}
+.log:hover {
+  cursor: grab;
+}
+.acount {
+  width: 300px;
+  border: none;
+  height: 50px;
+  margin-top: 10px;
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+  background-color: rgb(23, 156, 23);
+}
+.acount:hover {
+  cursor: grab;
+}

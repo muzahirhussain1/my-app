@@ -1,0 +1,16 @@
+
+.head{
+    color: rgb(53, 44, 189);
+    font-size:60px ;
+}
+.container{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.para{
+    font-size: 30px;
+}
+.paragraph{
+    width: 80%;
+} 
